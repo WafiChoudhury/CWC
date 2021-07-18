@@ -38,7 +38,6 @@
 		B139B16B26A403DF009BA249 = {
 			isa = PBXGroup;
 			children = (
-				B139B18626A40A02009BA249 /* MyModel.swift */,
 				B139B17626A403DF009BA249 /* GithubTest */,
 				B139B17526A403DF009BA249 /* Products */,
 			);
@@ -55,6 +54,7 @@
 		B139B17626A403DF009BA249 /* GithubTest */ = {
 			isa = PBXGroup;
 			children = (
+				B139B18626A40A02009BA249 /* MyModel.swift */,
 				B139B17726A403DF009BA249 /* GithubTestApp.swift */,
 				B139B17926A403DF009BA249 /* ContentView.swift */,
 				B139B17B26A403E1009BA249 /* Assets.xcassets */,
